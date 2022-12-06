@@ -10,9 +10,9 @@ spring:
         git:
           search-paths: /
           default-label: "main"
-          uri: https://github.com/arlesalva/config-data.git
-          username: arlesalva
-          password: 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
+          uri: https://github.com/jefersonapaza/config-data.git
+          username: jefersonapaza
+          password: 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
   #security:er:
       #      #name: root
       #      #password: s3cr3t
